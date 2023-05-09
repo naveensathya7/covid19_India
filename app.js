@@ -1,3 +1,4 @@
+//test covid india
 const path = require("path");
 const express = require("express");
 const { open } = require("sqlite");
